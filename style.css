@@ -11,7 +11,7 @@ body{
 	}
 .clkboxes1{
     border:1px solid #ffffff;
-	padding: 60px;
+	padding: 34px;
 	border-radius:5px;
 	}
 .clkboxes2{
@@ -21,14 +21,14 @@ body{
 	}
 .clkboxes3{
     border:1px solid #ffffff;
-	padding: 100px;
+	padding: 34px;
 	border-radius:10px;
 	}
 .clock-box{
 	text-align:center;
 }
 .clock-box span{
-	padding:3px 8px;
+	padding:3px 24px;
 }
 .year-box{
     border:1px solid grey;
